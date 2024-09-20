@@ -2,18 +2,10 @@
   "sound": {
     "categories": [
       {
-        "name": "Nature Sounds",
-        "items": [
-          {
-            "id": 1,
-            "title": "Rainforest Ambience",
-            "url": "https://yourdomain.com/sounds/rainforest.mp3"
-          },
-          {
-            "id": 2,
-            "title": "Ocean Waves",
-            "url": "https://yourdomain.com/sounds/ocean-waves.mp3"
-          }
+        "name": "Nature",
+        "sounds": [
+          { "title": "Rain", "url": "https://example.com/sounds/rain.mp3" },
+          { "title": "Forest", "url": "https://example.com/sounds/forest.mp3" }
         ]
       }
     ]
@@ -21,18 +13,10 @@
   "wallpaper": {
     "categories": [
       {
-        "name": "Nature Wallpapers",
-        "items": [
-          {
-            "id": 1,
-            "title": "Mountain Landscape",
-            "url": "https://yourdomain.com/wallpapers/mountain.jpg"
-          },
-          {
-            "id": 2,
-            "title": "Sunset at the Beach",
-            "url": "https://yourdomain.com/wallpapers/sunset-beach.jpg"
-          }
+        "name": "Nature",
+        "wallpapers": [
+          { "title": "Mountain", "url": "https://example.com/wallpapers/mountain.jpg" },
+          { "title": "River", "url": "https://example.com/wallpapers/river.jpg" }
         ]
       }
     ]
